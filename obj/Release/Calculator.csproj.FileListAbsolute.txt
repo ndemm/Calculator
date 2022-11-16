@@ -1,0 +1,16 @@
+C:\Visualstudio\C#\WPF\Calculator\bin\Release\Calculator.exe.config
+C:\Visualstudio\C#\WPF\Calculator\bin\Release\Calculator.exe
+C:\Visualstudio\C#\WPF\Calculator\bin\Release\Calculator.pdb
+C:\Visualstudio\C#\WPF\Calculator\obj\Release\Calculator.csproj.AssemblyReference.cache
+C:\Visualstudio\C#\WPF\Calculator\obj\Release\Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Visualstudio\C#\WPF\Calculator\obj\Release\App.g.cs
+C:\Visualstudio\C#\WPF\Calculator\obj\Release\Calculator_MarkupCompile.cache
+C:\Visualstudio\C#\WPF\Calculator\obj\Release\Calculator_MarkupCompile.lref
+C:\Visualstudio\C#\WPF\Calculator\obj\Release\Calculator.g.resources
+C:\Visualstudio\C#\WPF\Calculator\obj\Release\Calculator.Properties.Resources.resources
+C:\Visualstudio\C#\WPF\Calculator\obj\Release\Calculator.csproj.GenerateResource.cache
+C:\Visualstudio\C#\WPF\Calculator\obj\Release\Calculator.csproj.CoreCompileInputs.cache
+C:\Visualstudio\C#\WPF\Calculator\obj\Release\Calculator.exe
+C:\Visualstudio\C#\WPF\Calculator\obj\Release\Calculator.pdb
+C:\Visualstudio\C#\WPF\Calculator\obj\Release\MainWindow.g.cs
+C:\Visualstudio\C#\WPF\Calculator\obj\Release\MainWindow.baml
